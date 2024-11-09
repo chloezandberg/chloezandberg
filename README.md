@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @chloezandberg
+# 👋 Hi, I’m Chloe!
 - 👀 I’m interested in dance, thrifting, music, photography, and data!
 - 🌱 I’m currently learning Python, R, data science, programming, and more! :)
 - 💞️ I’m looking to collaborate on a project that leverages Spotify's API...
